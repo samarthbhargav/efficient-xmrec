@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+.python-version
+
+/checkpoints
+/raw_results
+/results
+
+__pycache__
